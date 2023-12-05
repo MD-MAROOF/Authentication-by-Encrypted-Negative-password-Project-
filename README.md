@@ -3,8 +3,8 @@ A Project designed for secure password storage.
 <br>
 Author: <b>MD.MAROOF</b>
 
-<br>
-<br>
+
+
 <br>
 
 <h2> ABSTRACT </h2>
